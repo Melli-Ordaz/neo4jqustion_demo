@@ -1,0 +1,26 @@
+<aiml version="1.0.1" encoding="UTF-8">
+    <category>
+        <pattern>你好</pattern>
+        <template>
+            Hi, 你好!
+        </template>
+    </category>
+    <category>
+        <pattern>胖子哥</pattern>
+        <template>
+            叫我干啥!
+        </template>
+    </category>
+    <category>
+        <pattern>你是谁</pattern>
+        <template>
+            我是机器人,阿尔法胖哥!
+        </template>
+    </category>
+    <category>
+        <pattern>你有多胖啊</pattern>
+        <template>
+            我也不知道怎么算胖，不过我三维相等!
+        </template>
+    </category>
+</aiml>
